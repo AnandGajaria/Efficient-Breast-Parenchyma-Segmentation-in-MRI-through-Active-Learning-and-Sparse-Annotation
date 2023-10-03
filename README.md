@@ -22,3 +22,5 @@ develop a proficient model while minimizing the reliance on extensive labeled da
 results of this approach were compared to a baseline model, trained on full set of training
 data. Using the active learning approach a similar dice score of 0.64 as the baseline model,
 was achieved in five active learning iterations.
+
+**Keywords:** Medical Image Processing, Deep learning, Medical Image Segmentation.
